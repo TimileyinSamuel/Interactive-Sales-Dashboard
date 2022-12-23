@@ -1,6 +1,6 @@
 # Interactive-Sales-Dashboard
 
-
+A interactive dashboard of a company detailing sales made per region
 
 
 
